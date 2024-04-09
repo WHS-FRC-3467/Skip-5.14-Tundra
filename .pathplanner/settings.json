@@ -1,0 +1,30 @@
+{
+  "robotWidth": 0.88,
+  "robotLength": 0.96,
+  "holonomicMode": true,
+  "pathFolders": [
+    "6 Note Auto",
+    "Amp Side",
+    "Amp Side Feed",
+    "Far Side",
+    "Mid Auto",
+    "Mid 4 + Search",
+    "PID",
+    "PSW-M3-M4or2",
+    "SS Steal",
+    "Steal",
+    "Zero Vision"
+  ],
+  "autoFolders": [
+    "Advantage Autos",
+    "Backup",
+    "PID",
+    "Week3",
+    "Week6"
+  ],
+  "defaultMaxVel": 6.0,
+  "defaultMaxAccel": 6.0,
+  "defaultMaxAngVel": 540.0,
+  "defaultMaxAngAccel": 720.0,
+  "maxModuleSpeed": 4.5
+}

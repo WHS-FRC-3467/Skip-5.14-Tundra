@@ -1,0 +1,52 @@
+{
+  "version": 1.0,
+  "waypoints": [
+    {
+      "anchor": {
+        "x": 4.05,
+        "y": 7.238681599870323
+      },
+      "prevControl": null,
+      "nextControl": {
+        "x": 4.156143494716769,
+        "y": 7.1773996246228675
+      },
+      "isLocked": true,
+      "linkedName": null
+    },
+    {
+      "anchor": {
+        "x": 4.268223408810858,
+        "y": 6.050590924711262
+      },
+      "prevControl": {
+        "x": 3.9641753933074186,
+        "y": 6.272779859117621
+      },
+      "nextControl": null,
+      "isLocked": false,
+      "linkedName": null
+    }
+  ],
+  "rotationTargets": [],
+  "constraintZones": [],
+  "eventMarkers": [],
+  "globalConstraints": {
+    "maxVelocity": 6.0,
+    "maxAcceleration": 6.0,
+    "maxAngularVelocity": 540.0,
+    "maxAngularAcceleration": 720.0
+  },
+  "goalEndState": {
+    "velocity": 0,
+    "rotation": -172.93968806121237,
+    "rotateFast": false
+  },
+  "reversed": false,
+  "folder": "Amp Side Feed",
+  "previewStartingState": {
+    "rotation": 126.43085812016245,
+    "velocity": 0
+  },
+  "useDefaultConstraints": true
+}
