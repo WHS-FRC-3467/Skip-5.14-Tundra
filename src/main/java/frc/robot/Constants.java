@@ -169,9 +169,9 @@ public final class Constants {
  */
         // Observed Arm Offsets
         // Measured against the hardstop when the Arm is in the STOWED position
-        public static final double kARM_STARTING_OFFSET = 162.6;
+        public static final double kARM_STARTING_OFFSET = 98.0;
         // Measured when the Arm is exactly horizontal
-        public static final double kARM_HORIZONTAL_OFFSET = 181.6;
+        public static final double kARM_HORIZONTAL_OFFSET = 115.0;
 
         // Feedforward Gains
         public static final double kS = .5;  // The Static Gain, in volts
